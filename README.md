@@ -11,7 +11,7 @@ pkg install wget
 wget https://github.com/KaneWalker505/cpuminer-termux/raw/refs/heads/main/cpuminer_1.0_aarch64.deb
 
 
-pkg install ./https://github.com/KaneWalker505/cpuminer-termux/raw/refs/heads/main/cpuminer_1.0_aarch64.deb
+pkg install ./cpuminer_1.0_aarch64.deb
 
 
 
